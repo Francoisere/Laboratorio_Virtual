@@ -59,7 +59,7 @@ Todo el ejercicio se desarrolló en un entorno aislado y controlado, de propieda
 
 ## Informe completo
 
-El informe técnico detallado (arquitectura completa, configuración paso a paso, evidencia y conclusiones) está disponible en [`/docs/Informe_Laboratorio.pdf`](docs/Informe_Laboratorio.pdf).
+El informe técnico detallado (arquitectura completa, configuración paso a paso, evidencia y conclusiones) está disponible en [`/Informe_Laboratorio.pdf`](Informe_Laboratorio.pdf).
 
 ---
 
