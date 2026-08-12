@@ -1,8 +1,8 @@
 # Laboratorio Virtual de Ciberseguridad — Simulación de Ataque, Detección y Respuesta
 
-Laboratorio de ciberseguridad construido desde cero para practicar y demostrar competencias de **Blue Team / SOC** en un entorno controlado: segmentación de red con firewall perimetral, monitoreo centralizado con SIEM, y un ciclo completo de ataque simulado → detección → contención.
+Laboratorio de ciberseguridad construido desde cero para practicar en un entorno controlado: segmentación de red con firewall perimetral, monitoreo centralizado con SIEM, y un ciclo completo de ataque simulado → detección → contención.
 
- Proyecto de portafolio — Estudiante de Ingeniería Civil Informática, aspirante a prácticas/trabajo en ciberseguridad (Chile).
+ Proyecto de portafolio — Estudiante de Ingeniería Civil Informática, aspirante a prácticas/trabajo en ciberseguridad o redes (Chile).
 
 ---
 
